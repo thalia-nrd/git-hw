@@ -1,0 +1,8 @@
+hobbies.txt
+1. Reading
+2. Walking
+3. Cooking
+
+What I want to learn:
+1. Knitting
+2. Baking
