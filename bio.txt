@@ -1,0 +1,7 @@
+bio.txt
+Name: Nathalia
+Age: 20
+Favorite Color: Purple
+Dream Job: Not sure yet
+Current City: Burnaby
+Favorite Food: Chicken Teryaki
