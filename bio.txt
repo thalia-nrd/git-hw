@@ -1,4 +1,3 @@
-bio.txt
 Name: Nathalia
 Age: 20
 Favorite Color: Purple
