@@ -5,3 +5,13 @@ Favorite Color: Purple
 Dream Job: Not sure yet
 Current City: Burnaby
 Favorite Food: Chicken Teryaki
+Favorite Movie: About Time
+Favorite Music: From The Start
+Skills:
+- Time management
+- Creativity
+- Organization
+Languages:
+- English
+- Portuguese
+- Spanish
